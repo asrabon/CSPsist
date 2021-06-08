@@ -1,2 +1,2 @@
 # Find-Inline
-CLI tool to find inline JavaScript &amp; CSS on a website
+CLI tool to find inline JavaScript event handlers &amp; CSS style attributes on a website
